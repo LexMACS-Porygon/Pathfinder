@@ -1,7 +1,6 @@
 function collect() {
     var a = document.getElementById("start");
     var start = a.options[a.selectedIndex].value;
-    
     var b = document.getElementById("end");
     var end = b.options[b.selectedIndex].value;
     draw(start, end)
@@ -22,7 +21,6 @@ const arr = {
     7: [145, 45],
     8: [150, 150],
 }
-
 const graph = {
 	0: { 3: distance(arr[0], arr[3]), },
 	1: { 2: distance(arr[1], arr[2]), },
@@ -98,12 +96,18 @@ const findShortestPath = (graph, startNode, endNode) => {
 	return path;
 };
 
+let img;
+function preload() {
+  img = loadImage("mathbuilding.png");
+}
 function setup() {
-    createCanvas(400, 400);
+    var myCanvas = createCanvas(300, 350);
+    myCanvas.parent("canvas");
     noLoop();
 }
-
 function draw(start, end) {
+    background(255);
+    image(img, 10, 50, 83 * 4, 194 * 1.5);
     const path = findShortestPath(graph, parseInt(start), parseInt(end));
     for (var a = 0; a < 9; a++) {
         stroke('gold');
