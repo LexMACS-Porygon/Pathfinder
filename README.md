@@ -9,14 +9,14 @@
   <p align="center">
     A website for LHS students to find the most efficient path around campus based on locational data, distance calculations, traffic information, and data processed using Dijkstra's Algorithm. Built with Bootstrap and HTML/CSS/JS.
     <br />
-    <a href="https://github.com/LexMACS-Porygon/Classfinder"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LexMACS-Porygon/Pathfinder"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LexMACS-Porygon/Classfinder">View Demo</a>
+    <a href="https://github.com/LexMACS-Porygon/Pathfinder">View Demo</a>
     ·
-    <a href="https://github.com/LexMACS-Porygon/Classfinder/issues">Report Bug</a>
+    <a href="https://github.com/LexMACS-Porygon/Pathfinder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/LexMACS-Porygon/Classfinder/issues">Request Feature</a>
+    <a href="https://github.com/LexMACS-Porygon/Pathfinder/issues">Request Feature</a>
   </p>
 </div>
 
@@ -98,7 +98,7 @@ _To see the active website, go [here](https://pathfinder.anksharskarp.repl.co/)_
 - [ ] Create interactive map
 - [ ] Add support for numerous other schools
 
-See the [open issues](https://github.com/LexMACS-Porygon/Classfinder/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/LexMACS-Porygon/Pathfinder/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,11 +128,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/LexMACS-Porygon/Classfinder](https://github.com/LexMACS-Porygon/Classfinder)
+Project Link: [https://github.com/LexMACS-Porygon/Pathfinder](https://github.com/LexMACS-Porygon/Pathfinder)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[license-url]: https://github.com/LexMACS-Porygon/Classfinder/blob/master/LICENSE.txt
+[license-url]: https://github.com/LexMACS-Porygon/Pathfinder/blob/master/LICENSE.txt
