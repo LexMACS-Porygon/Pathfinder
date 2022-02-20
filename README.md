@@ -7,7 +7,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Classfinder</h3>
 
   <p align="center">
     A website for LHS students to find the most efficient path around campus based on locational data, distance calculations, traffic information, and data processed using Dijkstra's Algorithm. Built with Bootstrap and HTML/CSS/JS.
