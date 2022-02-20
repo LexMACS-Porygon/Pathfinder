@@ -1,4 +1,4 @@
-# Classfinder
+# Pathfinder
 
 <div id="top"></div>
 
