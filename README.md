@@ -53,16 +53,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Among the students of Lexington High School, there’s one gripe they all share: how difficult it is to traverse its campus. Who hasn’t gotten lost once or twice, arriving late to a class or not being able to find a room. We present to you a solution: LHS Path Finder! Never get lost again!
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+This project was our first try at a hackathon. As three freshmen at Lexington High School, we needed to find an idea that we all felt passionate about, and after talking for a bit about our experiences in school, we found it. The undertaking of this project was not an easy task. All of us being new to creating web apps, we faced numerous roadblocks. We didn’t know how to start, we didn’t have enough time, and halfway through, we hadn’t made much progress at all. It would be a lie if we said there weren't times when we felt hopeless and wanted to quit. But through it all, we helped each other with problems, encouraged each other to keep going, and slowly but surely, our exclamations of “We’re never going to get this finished in time!” turned into “Wait, hold on, this is actually working.” The end result is what we have here today.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+LHS Path Finder helps students find the fastest and shortest path to get to their classes across campus using graph theory (and data stored on the website about routes across campus) and Dijkstra's Algorithm to mathematically determine the most efficient pathway throughout campus to the end point. Our initial idea was to incorporate all of Lexington High School into the pathfinder, but after seeing our time constraints, we decided to just incorporate one building. It was easy to choose which one; the Math building was where computer science classes were held, after all. In the future, we plan to expand our project to include all of LHS, and for it to be more detailed, including more classrooms and significant locations. In time, we might even incorporate other schools!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
